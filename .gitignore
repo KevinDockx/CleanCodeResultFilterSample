@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs/CleanCodeResultFilterSample/v15
+/src/PeopleCompetences.Api/bin/Debug/netcoreapp2.1
+/src/PeopleCompetences.Api/obj
+/.vs
